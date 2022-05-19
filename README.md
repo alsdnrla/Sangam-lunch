@@ -25,7 +25,7 @@ HTML위에 CSS를 추가한다면 더욱더 예쁘고 현대적인 앱을 만들
 
 
 
-<img width="200" src="https://imgur.com/dTRpcV1"/>
+<img width="200" src="https://ibb.co/z48NsnF"/>
 
 
 
